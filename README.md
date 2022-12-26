@@ -1,5 +1,10 @@
 # ProjectName
 
+## Badges (optional)
+<!-- Badges are useful to give quick status and stats
+    For badges, you can check https://shields.io/
+ -->
+
 ## Table of contents
 
 [1. About the project](#about-the-project)
