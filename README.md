@@ -10,6 +10,8 @@
 
 [2. Installation and Usage](#installation-and-usage)
 
+[3. Credits](#credits)
+
 <!-- SECTION: About project -->
 ## About the project
 ### Project Description
@@ -29,3 +31,7 @@
 
 <!-- If needed, you can add credential information here -->
 
+## Credits
+<!-- Can be a list. People or resources that contributed knowledge
+    In case of people, add link to a profile
+ -->
