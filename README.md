@@ -21,5 +21,11 @@
 
 ## Installation and Usage
 
-<!--  -->
+<!-- Here you will include installation and setup instructions 
+    The idea is to be detailed on how to get environment up and running
+-->
+
+<!-- After you can include examples or guides of project usage. -->
+
+<!-- If needed, you can add credential information here -->
 
