@@ -17,6 +17,8 @@
 
 [3. Credits](#credits)
 
+[4. How to Contribute](#how-to-contribute)
+
 <!-- SECTION: About project -->
 ## About the project
 ### Project Description
@@ -39,4 +41,9 @@
 ## Credits
 <!-- Can be a list. People or resources that contributed knowledge
     In case of people, add link to a profile
+ -->
+
+## How to Contribute
+<!-- This section is specific to open source projects
+    The idea is to provide instructions how people can contribute to repo
  -->
